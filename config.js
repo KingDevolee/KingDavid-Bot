@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['2348057627946', 'WHITE', true], 
-  ['2348057627946', 'Abraham Dwamena', true],
+  ['2348057627946', 'King David', true],
   ['2348057627946', 'King David -(Bot)', true], 
   ['2348057627946', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
   ['2348057627946', 'King David Bot', true],
